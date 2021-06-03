@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Family-prayers for every day in the week Containing a short summary of Christian religion. By Theophilus Dorrington.</title>
+            <author>Dorrington, Theophilus, d. 1715.</author>
+         </titleStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81637</idno><idno type="EEBO-CITATION">99895497</idno>
+  <idno type="VID">152936</idno>
+  <idno type="EEBO-PROQUEST">2248572891</idno>
+  
+            <idno type="STC">Wing D1941B</idno>
+            <idno type="STC">ESTC R176421</idno>
+            <idno type="PROQUEST">99895497</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895497e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152936)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2334:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Family-prayers for every day in the week Containing a short summary of Christian religion. By Theophilus Dorrington.</title>
+                  <author>Dorrington, Theophilus, d. 1715.</author>
+               </titleStmt>
+               <extent>[2], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Wyat at the Rose in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint: Price 3 d.</note>
+                  <note>Cf. Wing D1941B, which has "Wayt" in the imprint.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devotional exercises --  Early works to 1800.</term>
+               <term type="topical_term">Family --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152936:1"/>
+            <p>
+               <hi>Family-Prayers</hi> FOR Every DAY IN THE WEEK.</p>
+            <p>Containing a short Summary of Christian Religion.</p>
+            <p>By <hi>Theophilus Dorrington.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wyat</hi> at the <hi>Rose</hi> in St. <hi>Paul</hi>'s Church-yard, 1697.</p>
+            <p>
+               <hi>Price 3 d.</hi>
+            </p>
+         </div>
+         <div type="readings">
+            <pb facs="tcp:152936:2"/>
+            <pb n="1" facs="tcp:152936:2"/>
+            <head>Texts of Holy Scripture to be read Standing before Prayers.</head>
+            <p>WIthout Faith it is impossible to please God: For he that cometh to God must believe that He is, and that He is a rewarder of them that diligently seek Him, <hi>Heb. 11. 6.</hi>
+            </p>
+            <p>In every thing by Prayer and Supplication, with Thanksgiving, let your requests be wade known to God, <hi>Phil. 4. 6.</hi>
+            </p>
+            <p>Let us have Grace whereby we may serve God acceptably, with Reverence and Godly Fear, <hi>Heb. 12. 28.</hi>
+            </p>
+            <p>God is a Spirit, and they that Worship him must Worship him in Spirit, and in Truth, <hi>John 4. 24.</hi>
+            </p>
+            <p>Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God; For God is in Heaven and thou upon Earth, therefore let thy words be few, <hi>Eccles. 5. 2.</hi>
+            </p>
+            <pb n="2" facs="tcp:152936:3"/>
+            <p>Jesus Christ continueth for ever, ha<g ref="char:EOLhyphen"/>ving obtain'd an unchangeable Priest hood; Wherefore he is able to Save them to the Ʋttermost that come to God by Him, see<g ref="char:EOLhyphen"/>ing He ever liveth to make Intercession for them, <hi>Heb. 7. 24, 25.</hi>
+            </p>
+            <p>We have not a High Priest that cannot be touched with a feeling of our Infir<g ref="char:EOLhyphen"/>mities, but was in all points tempted like as we are, yet without sin: Let us therefore come boldly to the Throne of Grace, that we may obtain Mercy, and find Grace to Help in time of Need, <hi>Heb. 4. 15, 16.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="prayers">
+            <pb n="3" facs="tcp:152936:3"/>
+            <head>
+               <hi>Family-Prayers</hi> FOR Every Day in the Week.</head>
+            <div type="day">
+               <head>For Sunday.</head>
+               <p>EVer Blessed and most Gracious God! Thou art an abundant Fountain of Goodness, freely flowing forth, without any diminution of thy Self for ever, to the making thy Creatures Hap<g ref="char:EOLhyphen"/>py. Thou hast contriv'd, and design'd the Nature of Man for the high and excellent Happiness of enjoying and delighting in thy Self: And made us capable to know and contemplate, and praise, and love thee, and to partake of thy glorious likeness, and rejoice in thy Love. This O Lord, we must acknowledge is our only true Felicity, and
+<pb n="4" facs="tcp:152936:4"/> we labour for that which will not profit when we pursue any thing else and neglect thee, and we lose our selves if we do not find and enjoy thee. But alas, we poor guilty and deluded Creatures, have by our sins forfeited and lost this happiness, and are to that degree estranged from it, that we know not wherein our true happiness lies, we have no desires after it, nor do concern our selves to recover it again. We are unhappily and guiltily disposed to for<g ref="char:EOLhyphen"/>sake and neglect thee, and to spend all our Thoughts, Affections and Pursuits after the vain and empty goods of this World: To love and seek the Creature, more than the Creatour: the poor perishing Streams, ra<g ref="char:EOLhyphen"/>ther than the Rich Eternal Fountain of Good. In this folly we must have perisht for ever, if thy Tender Compassion had not been concern'd for us: And thou, O Lord, hast sought us while we have neg<g ref="char:EOLhyphen"/>lected thee, thou revealest and offerest thy self to us while we forget and forsake thee. We thank thee O Father of Lights, for the Divine Light of thy Holy Word, which has made known to us our true Happiness, and the way of Salvation; by which we may know Thee, and Jesus Christ whom thou hast sent, whom to know is Life Eter<g ref="char:EOLhyphen"/>nal:
+<pb n="5" facs="tcp:152936:4"/> Which is fit to inlighten our dark Minds, and to rectifie our perverse Wills and Inclinations, and to make us Wise unto Salvation: Blessed be thy Infinite Mercy and Goodness that thou hast caused the Ho<g ref="char:EOLhyphen"/>ly Scriptures to be written for our Learn<g ref="char:EOLhyphen"/>ing, that through them we may embrace and ever hold fast the Blessed Hope of Everlasting Life, which thou hast given us in thy Son our Saviour Jesus Christ. We thank thee O Lord, for thy Holy Sacra<g ref="char:EOLhyphen"/>ments, the pledges of thy Love, the blessed Conveyances of all Grace, and the Instru<g ref="char:EOLhyphen"/>ments to Unite us to Jesus Christ, the great Redeemer and Saviour, and so to make us partakers of the Merits of his most Holy Life, and of the Atonement and Propitiati<g ref="char:EOLhyphen"/>on for Sin which he has made in the Sacri<g ref="char:EOLhyphen"/>fice of his Death; that so our unworthiness of all favour from thee may be forgiven, and we may obtain a right and title to the true and Everlasting Happiness. O let thy good Spirit prevent us with the good motions of his Grace; and possess us with a due value and esteem for these helps and means of Grace and Salvation. Quicken and assist us we pray thee, diligently and rightly to use them. O make us to Hunger and Thirst after Righteousness, that we may be
+<pb n="6" facs="tcp:152936:5"/> filled therewith: To seek first the Kingdom of God and the Righteousness thereof. Grant us always to hear meekly thy Word, to receive it with pure Affection, to treasure it up in our Hearts, and entertain our selves with the frequent Meditations on it, that so it may be our constant Guide and Counsel<g ref="char:EOLhyphen"/>lour, and lead us in the way to Happiness. Give us we pray Thee, a due fitness for thy Holy Sacraments; In a lively Faith in Jesus Christ, and Hope in thy Mercy through Him. Give us a hearty and unfeigned Sor<g ref="char:EOLhyphen"/>row and Repentance for all our past Sins, with earnest desires and firm resolutions to forsake them for the future, and to devote our selves to walk before Thee in Holiness and Righteousness all our days: And give us, what thou dost also require in us to find fa<g ref="char:EOLhyphen"/>vour with thee, an unfeigned good-will and Charity towards all Men. That so with thy Sacraments we may receive the full re<g ref="char:EOLhyphen"/>mission of our Sins, a sense of thy Favour, and Love to us, and the firm assured hopes of Everlasting Life. O metciful God! While we diligently seek thee in the way thou hast appointed, let us, tho unworthy, find thee through the Merits of Jesus Christ; do thou draw nigh to us when we draw nigh unto thee, and be among us when we
+<pb n="7" facs="tcp:152936:5"/> Assemble to thy Worship. Let thine Ordi<g ref="char:EOLhyphen"/>nances afford us the happy pleasure of Com<g ref="char:EOLhyphen"/>munion with thee, so let us acquaint our selves again with thee that we may be at Peace; that our Souls may be for ever fixed, and at rest on Thee our chiefest good, and may never be fond of any thing else, never wander after other goods; but love thee alone with all our Heart, and Soul, and Mind, and Strength. Let thine Ordi<g ref="char:EOLhyphen"/>nances by thy blessing, afford us an abun<g ref="char:EOLhyphen"/>dance of inward and spiritual Strength, to run the way of thy Commandments with Patience and Steadiness in the Course of our Lives: That we may come at last to enjoy an Eternal Sabbath of Rest and Pleasure in Everlasting Communion with thee, through the Merits and Mediation of Jesus Christ; To whom with the Father and the Holy Spirit, be all Honour and Glory World without End.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="day">
+               <head>For Monday.</head>
+               <p>O Lord, the Infinite Incomprehensible God! Thou art exceeding great, and thy Greatness is Unsearchable, and thy Ma<g ref="char:EOLhyphen"/>jesty
+<pb n="8" facs="tcp:152936:6"/> and Glory such as no mortal Eye can approach and live. In Thee does all full<g ref="char:EOLhyphen"/>ness, and the Perfection of every Excellen<g ref="char:EOLhyphen"/>cy dwell. O Glorious Being! There is none besides thee like unto thee: Thou art the only true and living God! Infinite, and without measure in all thy Excellency and Glory! Thou art Infinite in Being, Wisdom; Power, Holiness, Justice, Goodness and Truth. The highest Angels humble and abase themselves before Thee; and all the Nations of the Earth are as nothing in com<g ref="char:EOLhyphen"/>parison to thee. We admire, we adore, we praise Thee who art exalted above all Bles<g ref="char:EOLhyphen"/>sing and Praise. We owe, and we offer and devote, to thy Infinite Love and Goodness, the best of our Love: To thy Truth and Faithfulness all our Confidence and Trust. To thy Greatness and Power we owe, and will endeavour at all times to pay a pro<g ref="char:EOLhyphen"/>found Reverence and Godly Fear. It is our indispensable Duty that we render thee the Homage of Worship: And this we come to offer at present; To praise the glorious Excellency of thy Nature, and to magnifie thy wonderful Works: To thank thee for all thy abundant mercy and goodness to us poor Creatures, who in thee do live, move, and have our Being: And to make our hum<g ref="char:EOLhyphen"/>ble
+<pb n="9" facs="tcp:152936:6"/> Supplications unto thee, who art a God hearing Prayer, for the supply of all our Wants. But alas, what are we poor Dust and Ashes, that we should take upon us to approach, and speak to the great Lord of Heaven and Earth. Lord, what is Man that thou shouldst be mindful of him, or the Son of Man that thou shouldst visit him. Thou hast no need of the Homage and Wor<g ref="char:EOLhyphen"/>ship which we offer, nor any Advantage from us, who art Infinitely and Eternally sufficient in thy self to thine own Happiness. Thou hast commanded us to seek thy Face for our own sakes, and that we may be par<g ref="char:EOLhyphen"/>takers of thy Goodness, for thou Lord wait<g ref="char:EOLhyphen"/>est to be Gracious. In Obedience to thy Commands we present our selves before thee, but with all Lowliness and Humility, and Reverence, as infinitely below thee; For thou Lord art in Heaven, and we are on Earth as at thy Footstool: Thou hast all Excellency in thy self, not deriv'd from any other; and we are mean and poor, of little worth, and have derived, and are be<g ref="char:EOLhyphen"/>holden to thee for all that we are. But especially O Lord, must we humble and abase our selves before thee, in considerati<g ref="char:EOLhyphen"/>on of our manifold Sins and Wickedness. It becomes us to be vile in our own Eyes,
+<pb n="10" facs="tcp:152936:7"/> who have deserved to be so in thine. We ought to have set thee always before our Eyes, that we might have liv'd under the Influence of thy Fear, and have been with<g ref="char:EOLhyphen"/>held from sinning against thee; but alas, we have put thee out of our Thoughts, and liv'd careless of pleasing thee, though thou art always nigh to every one of us, and hast been daily mindful of us, to do us good. We have displeased thy Goodness with our Malice and Envy; thy Truth and Faithfulness with our falshood and dissimu<g ref="char:EOLhyphen"/>lations, thy Justice with our unrighteous<g ref="char:EOLhyphen"/>ness, thy Holiness and Purity with our sensual abominations, and impurities. We have affronted thy Soveraignty and Great<g ref="char:EOLhyphen"/>ness in our Rebellions against thee, and Con<g ref="char:EOLhyphen"/>tempt of thy Laws and Threatnings. O Lord we have deserv'd the utmost Terrours of thy Infinite and Eternal Wrath. Oh give us broken and contrite Hearts; Give us an unfeigned Repentance of all our Sins, and deal not with us, we pray thee, as they de<g ref="char:EOLhyphen"/>serve. According to the multitude of thy tender Compassions blot out all our Trans<g ref="char:EOLhyphen"/>gressions. And turn thou us, O good Lord, to our Duty, so shall we be turned. Cre<g ref="char:EOLhyphen"/>ate in us a clean Heart, and renew in us a right Spirit. Give us an Heart to love and
+<pb n="11" facs="tcp:152936:7"/> fear thee, and diligently to live after thy Commandments. Whether we eat or drink, or whatever we do, dispose us to do all to thy Glory. Grant us the Grace to shew forth thy Praise, not only with our Lips but in our Lives also, by giving up our selves constantly to thy Service, and by walking before thee in Holiness and Righteousness all our Days. So let us grow up by degrees to such Holiness and Purity, as that we may upon our removal hence be admitted to dwell in thy Presence, and to Praise, and Enjoy thee for ever. All which we hum<g ref="char:EOLhyphen"/>bly ask in the Name of Jesus Christ, to whom with the Father and the Holy Ghost, be all Honour and Glory World without End.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="day">
+               <head>For Tuesday.</head>
+               <p>O Eternal, Almighty God! Creatour of all things both visible and invisible. By thy powerful Word thou hast made the Heavens, and the Heaven of Heavens, with all their Host, the Earth and all therein, the Seas and all that is in them. And thou who art the same yesterday, to day and for
+<pb n="12" facs="tcp:152936:8"/> ever, dost uphold and preserve the Works which thou hast made. By thy good Provi<g ref="char:EOLhyphen"/>dence the World is continued as it is to this day; and we have Summer, and Winter, Seed-time and Harvest. Thou crownest the year with thy Goodness, thy Clouds drop Fatness upon the Earth; Thou openest thy bountiful Hand, and fillest all things living with plentiful provision. Thou, O most mighty Lord, givest all power and sufficien<g ref="char:EOLhyphen"/>cy to every Creature, thou workest all in all, and dost dispose and govern all things according to thy Will. All thy Works are done in Wisdom and Equity; all thy Works Praise thee, and there is none O Lord, that can do as thou dost. We acknowledge it is Thou that hast made us, and not we our selves, We are thy People and the Sheep of thy Pasture: From thy free Bounty we derive our Life, and Breath, and all things: Thou holdest our Soul in Life. And as all things are of thee and through thee, and therefore to thee, thou hast justly design'd all for thine own Glory; so we are bound to acknowledge thee in all our ways, to serve thee with our Souls and Bodies which are thine. We cannot therefore sufficiently admire and praise thy wonderful Patience and Long-suffering towards us, who have
+<pb n="13" facs="tcp:152936:8"/> liv'd in so much neglect, and contempt of Thee, and yet have all the while been par<g ref="char:EOLhyphen"/>takers of thy Goodness: Thou hast nou<g ref="char:EOLhyphen"/>rished and brought up Children, and they have rebelled against thee. We have af<g ref="char:EOLhyphen"/>fronted thy Sovereign Right, and just Au<g ref="char:EOLhyphen"/>thority over us, have cast thy Laws behind our Backs, and follow'd our own Wills, Lusts, and Humours. We have been un<g ref="char:EOLhyphen"/>grateful to our great Benefactor and Friend, and yet thou sparest us. Thou causest thy Sun to Shine, and thy Rain to fall on the Just, and on the Unjust, and art good to the Unthankful and Evil. O Lord, let thy yet unwearied Goodness and Patience effe<g ref="char:EOLhyphen"/>ctually lead us to Repentance for all our undue Behaviour towards thee: That we may be qualified as is fitting to receive the Pardon of our Sins. And forgive, we most humbly beseech thee, our past Wickedness, and grant us the Grace to forsake it for the future. Vouchsafe to sanctifie, direct and govern both our Hearts and Bodies in the ways of thy Laws, and in the works of thy Commandments. Make us to employ our Understanding in the Knowledge and Con<g ref="char:EOLhyphen"/>templation of thy Greatness and Goodness, and let them be possest with a high and just esteem of thee: Let our Wills chuse and
+<pb n="14" facs="tcp:152936:9"/> fix on thee who art our chiefest good: Our Affections Love, Fear, Reverence, Hope and Delight in Thee: Open thou our Lips, and make our Mouths to shew forth thy Praise. And let all the Actions of our Lives duly Imitate and Honour thee. Give us at all times so lively a sense of our continual dependance upon, and our great Obligati<g ref="char:EOLhyphen"/>ons to Thee, as may make us careful to serve and please thee in all our Ways: So let us and all that belongs to us, be under the special Care of thy good providence, and be thou O Lord our Refuge and Portion in the Land of the living. We humbly pray that thy good Spirit may excite and inable us to serve thee diligently and faithfully in that State of Life to which thou callest us; and let thy good Providence give us such outward helps and advantages as may mightily conduce towards this. We desire with thy leave, to have neither Poverty nor Riches assign'd us, but what thou seest most expedient: And give us the Grace to be always resign'd to thy disposal, and con<g ref="char:EOLhyphen"/>tented with the portion which thou givest. Dispose of our condition in the World as pleaseth thee, but deal with us, we humbly pray, according to thy Mercy, and always dispose of us so as may be to the Advantage
+<pb n="15" facs="tcp:152936:9"/> of our Piety and Virtue, so as to promote the Exercise and Improvement of them, and our Perseverance in well-doing to the End of our Lives. Let no Temptation befall us but such as is common to Men, and give us Inward and Spiritual Strength against all, that we may be deliver'd from Evil. Help us to lay aside all anxious Cares, to have our Conversation without Covetousness, to forsake all evil ways of providing for our selves, and always to put our whole Trust and Confidence in thee. Sanctifie to us all thy Dispensations, and let them all work to<g ref="char:EOLhyphen"/>gether for our good. Guide and conduct us by thy Counsel through all the Circum<g ref="char:EOLhyphen"/>stances of our Life on Earth, and after all, receive us to thy Glory; for the sake of Jesus Christ thy Son our Lord: To whom with the Father and the Holy Ghost, we ascribe all Honour and Glory, and Domi<g ref="char:EOLhyphen"/>nion, now and for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="day">
+               <head>For Wednesday.</head>
+               <p>O Most Holy God! Who lovest Righ<g ref="char:EOLhyphen"/>teousness and Holiness, and art of purer Eyes than to behold Iniquity! All the
+<pb n="16" facs="tcp:152936:10"/> ways of wickedness are justly an abomina<g ref="char:EOLhyphen"/>tion to Thee. We must therefore acknow<g ref="char:EOLhyphen"/>ledge O Lord, that Sin is not a thing of thy making. We are indeed wretchedly pollut<g ref="char:EOLhyphen"/>ed and disparag'd therewith, but this is due to our own foolish and perverse will. Thou didst make Man upright and very good, as all the rest of thy Works were; But we have defil'd our selves with our own Inven<g ref="char:EOLhyphen"/>tions. Our first Parents sinned against thee, and have brought all their posterity under the guilt and pollution of Sin. And we are now conceiv'd in Sin and brought forth in Iniquity: We go astray from the Womb; there is none of us that understandeth, that seeketh after God, all are gone out of the way, all are become abominable, because there is none that doth Good; We wretch<g ref="char:EOLhyphen"/>ed Creatures are by Nature Children of Wrath, and do deserve the utmost expres<g ref="char:EOLhyphen"/>sions of thy displeasure to fall upon us. Just are all thy Judgments therefore whereby thou hast testified thy displeasure against the Sins of Men. Most righteously hast thou cursed this World for our sakes, and Impair'd the goodness of things; So that we are now liable to Innumerable Calamities, and to be Afflicted even by those things which were design'd to be subject, and useful, and com<g ref="char:EOLhyphen"/>fortable
+<pb n="17" facs="tcp:152936:10"/> to us. Justly hast thou condemn'd us who were raised by thee from the dust to return to it again. And we deserve by our wickedness which is so odious to thee, to be for ever banisht from thy blissful presence, to endure the second, and eternal Death, in suffering the Misery and Punishment of the fallen Angels, whom we have followed, and imitated in sinning against thee. Oh we are vile Earth and miserable sinners! we ac<g ref="char:EOLhyphen"/>knowledge and bewail the Corruption of our Nature, and our manifold transgressions against thee: Lord have mercy upon us, and enter not into Judgment with thy Ser<g ref="char:EOLhyphen"/>vants, for in thy sight shall no man living be justified. Spare us good Lord, Spare thy people whom thy Son has redeemed with his most precious Blood: Restore them that are penitent to thy Favour, according to thy promises declared unto Mankind in Christ Jesu our Lord. Behold O Lord, we return unto thee and devote our selves to thy Service; accept us graciously we beseech thee, forgiving our Sins, and cleanse us from all Unrighteousness. Let us be created again in Christ Jesus unto Good works, and renew'd after the Image of him that Created us in Righteousness and true Holi<g ref="char:EOLhyphen"/>ness. Thy Hands have made and fashioned
+<pb n="18" facs="tcp:152936:11"/> us, Oh give us Understanding that we may keep thy precepts. We will run the way of thy Commandments when thou hast set our hearts at liberty. Reconcile our per<g ref="char:EOLhyphen"/>verse, and foolish Judgment and Will to thy most excellent Law which is in all things Holy, and Just, and Good. That it may be our Meditation day and night; That we may delight in the Law of God in our inward Man, and run the way of thy Com<g ref="char:EOLhyphen"/>mandments with all steadiness and perseve<g ref="char:EOLhyphen"/>rance, Order our Steps in thy word and let no Iniquity have dominion over us. Teach us we pray thee to bear with Patience and Resignation all the Afflictions and Cala<g ref="char:EOLhyphen"/>mities which we meet with in this Life, as sensible that we have pull'd them upon our Selves by our own Sins, and have deserv'd far worse things than these at thy Hands: Sanctifie them all to the serving our Spiritual advantage, let them make us humble and circumspect, and temperate, heavenly mind<g ref="char:EOLhyphen"/>ed, and courteous, and charitable: Let the fruit of them be to take away our sins and to make us partakers of thy Holiness; that so they may have a happy Issue and Con<g ref="char:EOLhyphen"/>clusion at furthest in the rest and peace, and joy of thy presence in Heaven. Teach us to use this World as not abusing it, in God<g ref="char:EOLhyphen"/>liness,
+<pb n="19" facs="tcp:152936:11"/> Righteousness, and Sobriety. Excite us to give all diligence to make our Calling and Election sure; to work out our own Salvation with fear and trembling; and to strive to enter in at the strait Gate that leads to Life: that so we may at last recover and attain the Everlasting Kingdom which from the Foundation of the World thou hast pre<g ref="char:EOLhyphen"/>par'd for those that love thee: Through the Merits and Mediation of Jesus Christ, thy Son, our Bessed Lord and Saviour; for whom we give thee most hearty thanks, as for our only and our Comfortable hope in this wretched State of Sin and Misery: to whom with the Father, and the Holy-Ghost, be all Honour and Glory for ever and ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="day">
+               <head>For Thursday.</head>
+               <p>O Most blessed God! the supream and merciful Governour of the World. We a lore and praise, as we have abundant rea<g ref="char:EOLhyphen"/>son to do, the most gracious and favourable exercises of thy sovereignty and dominion in the Government of Mankind. Thou Lord art slow to Anger and of great Mercy, and delightest not in the Death of a Sinner, but had rather that he should turn from his wick<g ref="char:EOLhyphen"/>edness and Live. We were all obnoxious to thy Eternal Wrath by our sins, and found
+<pb n="20" facs="tcp:152936:12"/> favour with thee through the kind Inte<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cession of the Son of God. And when w<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could not be sav'd upon the Terms of a Universal Perfect Obedience, which is due <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee, because we are actually under guilt an<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deprav'd in our Nature, so that we canno<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> offer thee such an Obedience: thou ha<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> establish'd a second Covenant with us, an<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> such as is more favourable and suitable t<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our present guilt and miserable Corruptio<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Weakness, according to which we ma<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be sav'd through the Merits and Meditatio<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Jesus Christ. Thou dost thereby requir<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of us, indeed, and very justly, the sam<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Obedience to thy Righteous and Good Law<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> because this is natural Equity and Justice and the Judge of all the Earth cannot chus<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but do that which is right. But thanks b<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to thy Name we are not put to merit ou<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Salvation and Happiness hereby, which now we are not able to perform, but this is pur<g ref="char:EOLunhyphen"/>chased for us by the Abundant Merit, and perfect Righteousness of Jesus Christ, who is the Lord our Righteousness: For as by one mans disobedience, even that of our first Parent, many were made Sinners; so thou hast ordain'd that by the Obedience of One even of Jesus Christ, shall many be made Righteous. And now thy great goodness
+<pb n="21" facs="tcp:152936:12"/> condesends to accept, from us, a sincere <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd unseigned respect to all thy Commands, <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sorrow for our defects and failings, a con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ant endeavour to do well, and a good measure of Obedience, tho' it be but Im<g ref="char:EOLhyphen"/>perfect. Oh how Infinitely are we oblig'd <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o thy Condescending Goodness for thus re<g ref="char:EOLhyphen"/>storing us to the hopes, and a Capacity, of Happiness by Jesus Christ; who had lost and undone our selves, and had deserv'd that thou shouldst abandon us to remediless destructi<g ref="char:EOLhyphen"/>on. How much are we oblig'd to comply with the gracious and favourable terms of Salvation which thou hast now establish'd? We thank thee O Father of Mercies, for that thou hast so loved the World as to give thy only begotten Son, that whosoever believes in him should not perish but have everlasting Life: whom thou hast set forth to be a pro<g ref="char:EOLhyphen"/>pitiation through Faith in his Blood. We believe O Lord the necessity, and Suffici<g ref="char:EOLhyphen"/>ency of the Sacrifice of his Death: that He died for our Sins and rose again for our Justification: And we lay all our hopes of favour and mercy with thee upon his Me<g ref="char:EOLhyphen"/>ritorious Life and Death. We believe that as in <hi>Adam</hi> all died, even so in Christ shall all be made alive. Lord we pray thee, who art the giver of this Faith, to confirm
+<pb n="22" facs="tcp:152936:13"/> and encrease it in us more and more, a<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> give it a due Power and Influence upon o<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Hearts and Lives. Let it produce in us <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unfeigned Repentance and Godly Sorro<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for our Sins, an intire and sincere Conver<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>on of Mind, Will, and Actions from a<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that is evil. Make us to forsake that whi<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is evil, and to follow after that which <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good. Let our belief of the great Redem<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tion work in us as it ought to do, <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearty and earnest love to thee and to o<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Neighbour. Oh shed abroad thy Love <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our hearts by thy Holy Spirit, conquer o<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> unreasonable Enmity against thee; Conve<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> us into all Love, that we may Love the<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with all our Heart, with all our Soul, wit<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all our Mind, and with all our Strengt<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> And make us to love our Neighbour as ou<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>selves: to be always ready to do to others a<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we would they should do to us: to give t<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all their dues, Honour to whom Honou<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Fear to whom Fear, Tribute to who<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tribute is due; to owe no man any thin<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but to love one another. Make us true an<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> just in all our dealings, careful that we hur<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no body by word or deed in any of thei<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Interests, ready to forgive injurys, and t<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bear with the Ignorance and Infirmities o<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Neighbour: to bear no malice no<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:152936:13"/> hatred in our Hearts; to do good and com<g ref="char:EOLhyphen"/>municate, for with such Sacrifices God is well pleased. Make us to seek the welfare <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f others, and to be useful as we can to the World in that State and Condition of Life <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o which it hath pleased thee to call us. Give us such purity and sincerity of Charity and Love that we may never covet or de<g ref="char:EOLhyphen"/>sire other Mens goods. Let our Conversa<g ref="char:EOLhyphen"/>tion be as becomes the Gospel, and such as to adorn the Doctrine of God our Saviour in all things: shewing forth the Vertues of him that has called us to his Kingdom and Glory: to which we pray thee, conduct us by thy good Spirit for the sake of Jesus Christ, who liveth and reigneth with thee and the Holy Ghost, ever one God world without End.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="day">
+               <head>For Fryday.</head>
+               <p>ALmighty, and most merciful God! who art excellent and Incomprehensible in thy Nature and wonderful in all thy Works: thy works O Lord are like thy self, and thy ways past our finding out. But thou hast chiefly magnified thy self, and shown forth
+<pb n="24" facs="tcp:152936:14"/> thy Glory, in the Wonderful Redempti<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of Mankind by our Lord Jesus Christ. T<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> was the glorious contrivance of thy Infini<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Wisdom, the amazing Condescension of I<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>finite Majesty and Greatness, the Incom<g ref="char:EOLunhyphen"/>parable benefit of Infinite Love and Goo<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ness, and the most terrible demonstration o<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Infinite offended Justice, and of th<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hatred of all Sin and Wickedness. W<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wetched and foolish Creatures had by ou<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sin made thy Everlasting displeasure due t<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us, and lay under thy just Sentence, an<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Condemnation to Everlasting Punishmen<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> There was no help for us in Heaven o<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Earth, and the work must needs have been too great for any meer creature to redeem and deliver us from Infinite Wrath and Displeasure. But in this deplorable case we were beholden to thee, Oh Blessed Son o<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, who in thy Infinite Compassion didst intercede for us; and by offering thy Self to bear the Punishment of our sins, didst ob<g ref="char:EOLhyphen"/>tain that they might be pardon'd to us, and we might be receiv'd into favour with God the Father, who is the only Fountain of our Being and Happiness. How great O Jesu<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was thy Love which condescended so far for our Sakes; As that being in the form of God, and the express Image of his Incom<g ref="char:EOLhyphen"/>prehensible
+<pb n="25" facs="tcp:152936:14"/> Glory, thou didst abase thy Self to the form of a Servant in taking our mean Nature unto thee: And yet further didst become Obedient unto Death, even the ac<g ref="char:EOLhyphen"/>cursed death of the Cross to redeem and save us from Eternal Death. Thou wast by thine own free offer made a Curse, and Sin for us, who knewest no Sin, that we might be blest, and obtain Righteousness and Life. Oh Jesus, we celebrate and praise thy Incomparable Love, we will re<g ref="char:EOLhyphen"/>member thy Love more than Wine: Dearer shall it be to us always, as it has been more advantageous, than all the best, and most pleasant things of this World. And we thank thee, we Laud, we Magnifie thee O Heavenly Father, the great Judge and Gouernour of the Word, for thy gracious Condescension to our hopeless misery, in ap<g ref="char:EOLhyphen"/>pointing and allowing this Way of our Sal<g ref="char:EOLhyphen"/>vation. God so lov'd the World that he gave his only begotten Son, that whosoever believeth in him should not perish but have everlasting Life. We adore thee also, O most blessed and holy Spirit of God, who art ready to make us partakers of this great Redemption and Salvation. O what reason have we to say, Glory be to the Father, and to the Son, and to the Holy Ghost, for
+<pb n="26" facs="tcp:152936:15"/> so great Favour to lost, undone Mankind! O holy God, we will derive from hence an utter hatred of all Wickedness, and the most hearty desires, and firm resolutions to depart from all. Oh we cannot endure to think of Entertaining and Cherishing any more that which has crucified our Saviour and Friend, and which has cost him his most precious Blood and Life. We heartily wish the Death and Destruction of all our sins: that we may die unto Sin and live un<g ref="char:EOLhyphen"/>to Righteousness. Oh blessed Spirit of God, we beseech thee inable us to Crucifie the Flesh with the Affections, and Lusts there<g ref="char:EOLhyphen"/>of: to exercise such self-denials and ab<g ref="char:EOLhyphen"/>stinences, and such government of our sen<g ref="char:EOLhyphen"/>sual Desires and Appetites, that our Flesh being subdued to the Spirit, we may ever obey thy good, and holy motions. So let us mortifie the deeds of the Body that we may live. Teach us effectually to deny all Ungodliness and Worldly Lusts, and to live Soberly, Righteously and Godly in this present World. Let us always live to him that died for us, never decline to suffer for his sake who has suffered for us, nor to per<g ref="char:EOLhyphen"/>form the most laborious and difficult task of service to him who has done so much for us. And Purge and Cleanse we pray thee
+<pb n="27" facs="tcp:152936:15"/> all our Imperfect Services with his Blood, that they may find favour and Acceptance with God, and obtain for us the happy reward of Eternal Life, through the Merits and Mediation of Jesus Christ: To whom with the Father, and the Holy Spirit be all Honour, and Glory, thanks and praise, now and for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="day">
+               <head>For Saturday.</head>
+               <p>O Lord, thou art the Everliving God, and the Sole Fountain of Life; Thou art a Spirit, and the Father of Spirits. Thou hast form'd a noble, Immortal Spirit in Man, and didst at first design him for an e<g ref="char:EOLhyphen"/>verlasting Life and Happiness in the Enjoy<g ref="char:EOLhyphen"/>ment of thy self. He was endow'd with excellencies which it was a pleasure to him to observe in himself; He was the Object of thy Delight and Love, and with Incom<g ref="char:EOLhyphen"/>parable pleasure could entertain himself in Contemplations on thy Infinite Greatness, and thy abundant Love and Goodness to him. He might have been contented and satisfied with the Happiness he possest. But alas, thy Creature abused and despised all
+<pb n="28" facs="tcp:152936:16"/> thy Goodness to him, and while he thought, in his own time and way, to advance his Condition above what thou hadst bountifully made it, he has wofully Impair'd it. By our Sin we have defaced thine Image within us, which was the greatest glory of our Nature, and thereby have put all our Faculties into a miserable Confusion, and are become even a Burden and Plague to our selves. And our guilty and Wicked Minds are so estranged from thee, and possest with such Enmity a<g ref="char:EOLhyphen"/>gainst Thee, that thy Excellent Nature and Perfections, which render thee our chief<g ref="char:EOLhyphen"/>est good and our only Happiness, are be<g ref="char:EOLhyphen"/>come a distast and terrour to us. We have pull'd upon our selves by Sin that wretched death and dissolution of our Bodies to which thy just displeasure has now con<g ref="char:EOLhyphen"/>demn'd us all: We spend our days in Vanity and Sorrow, and in a Moment go down to the Grave. Man that is born of a Woman is but of few days, and they are full of trouble: He cometh forth like a feeble Flower, and is soon and easily withered or cut down: He fleeth as doth a shadow and continueth not. We must acknowledge O Lord, thou art most just and righteous in condemning these our Bodies to a miserable dissolution, for the gratification of which we
+<pb n="29" facs="tcp:152936:16"/> foolishly rebell'd against our Maker; and which we are so apt to gratifie, and Indulge in defiance of thy Laws, and in the neglect and contempt of those better things which our Souls are made capable, and were in<g ref="char:EOLhyphen"/>tended to Enjoy. We deserve too, as we must needs own, not only thy Natural Death but an Eternal one, which as it is threatned by thy displeasure, is also in Justice due to our Sins. We deserve to be ever Separated from thy Presence which we have so little car'd for; to be for ever depriv'd of the Happines of thy Love which we have wilfully lost, and forfeited and despised: to bear the everlasting terrours and burden of thy Wrath we have needlesly and carelesly provok'd against our selves. Lord how much does our Pride, our Malice and Envy, our Hypocrisy and Falshood, our Evil-speak<g ref="char:EOLhyphen"/>ing and Slandering, our Disobedience and Contention, deserve that we should be herd<g ref="char:EOLhyphen"/>ed with the Devil and his Angels; those vile Spirits who abound in these Wickednesses, and whom alone we resemble when we en<g ref="char:EOLhyphen"/>tertain and practice them. How justly may our lawless and guilty mirth and pleasure have Eternal Sorrow the Punishment of it! And our wicked Covetousness and pursuit of the things of this World, be afflicted with
+<pb n="30" facs="tcp:152936:17"/> the want of all things Comfortable! And how does our neglect of Salvation, and re<g ref="char:EOLhyphen"/>fusal to comply with the gentle and favour<g ref="char:EOLhyphen"/>able terms of it, deserve that we be con<g ref="char:EOLhyphen"/>demn'd to the terrible load of a bitter despair for ever. Oh what mischief have we done to our selves! how miserable are we be<g ref="char:EOLhyphen"/>come! O Lord we are asham'd; We hum<g ref="char:EOLhyphen"/>ble and abase our selves before thee in a sense of our guilt: And we fly from thy Justice, to the Hope set before us in the Me<g ref="char:EOLhyphen"/>rits and Mediation of Jesus Christ. Thou Lord art gracious, thy mercy is everlasting; Oh forgive our Sins, and renew our deprav'd Natures, sanctifie us throughout in Body, Soul and Spirit, Receive us we pray thee, into thy Favour, and let thy Good Spirit hereafter direct us to avoid the ways of Perdition, and lead us in the Way to Ever<g ref="char:EOLhyphen"/>lasting Life, We believe O Lord, as thou hast taught us, and we do still expect, that we shall have an Everlasting duration after this Life, according to the Nature and Ca<g ref="char:EOLhyphen"/>pacity of our Immortal Souls. That all who are in the Graves shall at the last day hear the Voice of the Son of God and come forth, they that have done good to the Re<g ref="char:EOLhyphen"/>surrection of Life, and they that have done evil to the Resurection of Condemnation.
+<pb n="31" facs="tcp:152936:17"/> For thou O righteous Judge of all the World, hast appointed a day in which thou wilt Judge the world in Righteousness by Jesus Christ, who shall come again in the Glory of his Father, and all the Holy Angels with him, before him shall be gather'd all Nations, and he shall render to every Man according to what he hath done in the Flesh, whether it be Good or Evil. Oh what manner of Persons ought we to be in all ho<g ref="char:EOLhyphen"/>ly Conversation and Godliness who are look<g ref="char:EOLhyphen"/>ing for such things as these, and hasting to them. Make us O Lord, in the belief of these things to take heed to our ways, to examine and Judge our selves that we may not be condemned of the Lord, and to work out our own Salvation with fear and trem<g ref="char:EOLhyphen"/>bling. Confirm we pray thee in us, and encrease, our Faith of that exceeding Glory and Happiness which thou hast prepar'd for them that Love thee. Quicken our diligence in thy service by the hopes of that rest which remains for the people of God: Make us stedfast, unmoveable, and always abounding in the work of the Lord, as knowing that our Labour shall not be in vain in the Lord. Support our Patience in bear<g ref="char:EOLhyphen"/>ing the Cross after our Master Jesus, by the Assurance that these light Afflictions which
+<pb n="32" facs="tcp:152936:18"/> are but for a moment, shall work for us, far more exceeding and Eternal weight o<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Glory. Encourage us to all necessary fe<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> denials with the hopes of that full Satisfacti<g ref="char:EOLunhyphen"/>on, and those Pleasures and Joys which ar<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in thy presence for ever. And having these hopes let us purifie our selves as thou art pure, and follow after Holiness, withou<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which no Man can see God: And grant us we pray thee, the Grace to persevere in al<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good and holy living to the end of our days. That so when Christ who is our Life shall appear, we also may appear with him in Glory: To whom with the Father, and the Holy Ghost, we ascribe all Honour and Praise, and Thanksgiving, World without End.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div type="prayers">
+            <pb n="33" facs="tcp:152936:18"/>
+            <head>Prayers to be added to the Former, according to the time of the Day.</head>
+            <div type="prayer">
+               <head>For the Morning.</head>
+               <p>ALmighty Everlasting God! We thank<g ref="char:EOLhyphen"/>fully acknowledge 'tis thy continued goodness which has preserv'd us hitherto, and kept us safely this last Night. And thy mercies renew'd upon us this morning en<g ref="char:EOLhyphen"/>gage us to love and serve thee. Grant we pray thee, that this day we fall into no Sin, nor run into any kind of danger. Prevent us in all our doings with thy Grace, and further us with thy continual help; That in all we may glorifie thy holy Name, and finally by thy Mercy obtain Everlasting Life, through the Merits of Jesus Christ our Lord.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="prayer">
+               <head>For the Evening.</head>
+               <p>O Most merciful and gracious God! In thy Favour is Life, and thy loving<g ref="char:EOLhyphen"/>kindness
+<pb n="34" facs="tcp:152936:19"/> is better than this Life. Lift up upon us we pray thee, the Light of thy Counte<g ref="char:EOLhyphen"/>nance. Let us lie down in peace with thee this Night by thy gracious forgiveness of all our Sins; and by thy protection let us en<g ref="char:EOLhyphen"/>joy a quiet and comfortable rest; for the sake of Jesus Christ our Saviour.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div type="intercessory_prayers">
+            <head>Intercessions to be added to the former Prayers, Commonly, both at Morn<g ref="char:EOLhyphen"/>ing and Evening.</head>
+            <div type="prayer">
+               <head>For the King and the Royal Family.</head>
+               <p>O Lord the great and universal Sovereign of the World, by whom Kings Reign, and Princes decree Equity: Who hast taught us by thy holy Apostle, that Magi<g ref="char:EOLhyphen"/>stracy is thine Ordinance for Good to Man<g ref="char:EOLhyphen"/>kind, and to make Prayers and Supplications for Kings, and all that are in Authority: We pray Thee, pour down thy Blessings abun<g ref="char:EOLhyphen"/>dantly upon thy Servant and our Sovereign Lord, King <hi>William.</hi> Grant him in all his Thoughts, Words and Works, ever to seek thy Honour and Glory. And so direct and prosper his Government, that under him we
+<pb n="35" facs="tcp:152936:19"/> may lead quiet and peaceable Lives in all Godliness and Honesty. Give him a long Life, and Health, and much Happiness in his Government; and bless him with all Spi<g ref="char:EOLhyphen"/>ritual and Eternal Blessings. Continue we pray Thee, and Bless the Royal Family; en<g ref="char:EOLhyphen"/>due it abundantly with the Divine Gifts of thy holy Spirit, and with all Noble Qualifi<g ref="char:EOLhyphen"/>cations; that it may ever afford us a fit person to Reign over us, and to be the Bond of our Union; That Righteousness and Peace may be maintain'd and abound among us, and our Strength may be supported and improv'd to thy Honour and Glory, and our Happiness and Welfare, for the sake of Jesus Christ our only Mediatour and Advocate.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="prayer">
+               <head>For the Clergy.</head>
+               <p>O Father of Lights, and giver of every good and perfect Gift! send down thy Holy Spirit we pray thee, abundantly upon the Clergy of thy Universal Church. Fill them with all knowledge of thy Truth, with zeal for thy Glory, and a great concern for the Salvation of Men. Make them a good Example to the Flock, in Faith and Love, in Heavenly-Mindedness, and Con<g ref="char:EOLhyphen"/>tempt
+<pb n="36" facs="tcp:152936:20"/> of this World, and in all that which becomes the Gospel: and diligent and faith<g ref="char:EOLhyphen"/>ful in the Administration of thy Sacred Or<g ref="char:EOLhyphen"/>dinances: That through thy blessing upon their Endeavours, they may turn many to Righteousness, and may save themselves and those who are committed to their Charge. Grant this O Lord, for the Honour of our Advocate, and Mediatour Jesus Christ.</p>
+            </div>
+            <div type="prayer">
+               <head>For all that live in Error or Wickedness.</head>
+               <p>O God of Truth, and Lover of our Souls! Look down we beseech thee with Mercy and Compassion upon the wretched World, which lies in wickedness. Cause the light of thy Gospel to run and be glorified, from the rising of the Sun to the going down of the same. Have mercy upon all Jews, Turks, Heathens and Infidels: Let them know thee, and Jesus Christ whom thou hast sent, whom to know is Life Eternal: That they may be turn'd from Darkness to Light and from the power of Satan unto God, and may receive remission of their Sins, and Inheritance among those who are sanctified by Faith in Jesus Christ. And grant we beseech thee, that all who profess and call themselves Christians, may know
+<pb n="37" facs="tcp:152936:20"/> and agree in the Truth of thy Holy Word, and live together in Unity and Godly Love: That they may depart from all Iniquity, and abound in all good Fruits of Holy and Vertuous living, to thy Honour and Glory, through Jesus Christ our blessed Saviour and Redeemer.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="prayer">
+               <head>For the Afflicted.</head>
+               <p>O Father of mercies and God of all Con<g ref="char:EOLhyphen"/>solation! Who dost not afflict willing<g ref="char:EOLhyphen"/>ly, nor grieve the Children of Men. Look down we pray thee, with Pity and Com<g ref="char:EOLhyphen"/>passion upon those who are in any Affliction or Distress of Mind body or Estate. (Espe<g ref="char:EOLhyphen"/>cialy, <hi>&amp;c. Here mention any you are par<g ref="char:EOLhyphen"/>ticularly concern'd for.</hi>) Thou knowest the frailty of our Nature; That we are but Dust, and when thou rebukest Man for Sin, thou makest his Beauty to consume away. Let not thy Hand therefore be heavy upon thy Creatures: But give them Strength to bear with Patience what thou art pleased they shall suffer, and let all redound to their Spiritual Advantage. Grant that in all our troubles we may put our whole Trust and Confidence in Thee, and finally see a hap<g ref="char:EOLhyphen"/>py Issue of all our Afflictions, and of this
+<pb n="38" facs="tcp:152936:21"/> miserable Life, through the Merits of Jesus Christ our Lord and only Saviour.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>The Lords Prayer, to be constantly used with the rest.</head>
+            <p>OUr Father which art in Heaven: Hal<g ref="char:EOLhyphen"/>lowed be thy Name: Thy Kingdom come; Thy will be done in Earth as it is in Heaven; Give us this day our daily bread; And forgive us our Trespasses as we forgive them that Trespass against us; Lead us not into temptation but deliver us from Evil; for thine is the Kingdom, the Power and the Glory, for ever, and ever.</p>
+            <closer>Amen.</closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THere is lately published by the Author of these Prayers, and may be bound with them, <hi>A Familiar Guide to the Right and Profi<g ref="char:EOLhyphen"/>table Receiving of the Lord</hi>'s <hi>Supper. Wherein also the way and method of our Salvation is Brief<g ref="char:EOLhyphen"/>ly and Plainly Declared.</hi> Useful for Families or particular Persons in their Closets. Price 1 <hi>s.</hi> Printed for <hi>B. Aylmer,</hi> and sold by <hi>John Wyat,</hi> at the Rose in St. <hi>Paul</hi>'s Church-yard.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
